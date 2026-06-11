@@ -1,4 +1,4 @@
-Function to Find Sum of Two Numbers
+//Function to Find Sum of Two Numbers
 #include <stdio.h>
 
 int sum(int a, int b)
