@@ -1,3 +1,4 @@
+//PRIME NUMBERS IN A RANGE
 #include <stdio.h>
 int main() {
     int i, num,j, count ;
